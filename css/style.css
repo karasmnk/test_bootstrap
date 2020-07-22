@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+
+.collapse{
+    background-color: #897200;
+    font-weight: bold;
+}
+
+.padding-color{
+    padding-top:30px;
+    padding-bottom:30px;
+    color: white;
+}
